@@ -6,4 +6,4 @@ The Property Analysis dashboard is created to analyze the property distribution 
 
 ![alt text](https://github.com/SuvarnaDalin/US-Property-Analysis-PowerBI_Dashboard/blob/main/Locations.png)
 
-![alt text](https://github.com/SuvarnaDalin/US-Property-Analysis-PowerBI_Dashboard/blob/main/real_estate.html)
+![alt text](https://rawcdn.githack.com/SuvarnaDalin/US-Property-Analysis-PowerBI_Dashboard/5aaf56b64c5fa132e952a755b38b537173fce05f/real_estate.html)
